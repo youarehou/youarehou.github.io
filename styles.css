@@ -34,8 +34,15 @@ h3 {
 }
 
 .sidebar {
-    background: rgba(255,253,50,1); /* yellow */
-    color: rgba(102,103,103,.5); /* gray */
+    /* background: rgba(255,253,50,1); yellow */
+	animation: sidebar 10s ease-in-out 0s infinite;
+    /* color: rgba(102,103,103,.5); gray */
+}
+
+@keyframes sidebar {
+	0%	{background-color: rgba(255,253,50,1); /* yellow */ color: rgba(102,103,103,.5); /* gray */}
+	50% {background-color: rgba(102,103,103,.5); /* gray */ color: rgba(255,253,50,1); /* yellow */}
+	100%{background-color: rgba(255,253,50,1); /* yellow */ color: rgba(102,103,103,.5); /* gray */}
 }
 
 .brand-title,
@@ -124,10 +131,15 @@ h3 {
     .post-category-design {
         background: #5aba59;
     }
-    .post-category-elections {
+    .post-category-primary {
         background: transparent;
-		border: 1px solid rgba(57,106,176,.5);
-		color: rgba(57,106,176,.75)
+		border: 1px solid rgba(57,106,176,.5); /* blue */
+		color: rgba(57,106,176,.75); /* blue */
+    }
+    .post-category-deadline {
+        background: transparent;
+		border: 1px solid rgba(227,32,28,.5); /* red */
+		color: rgba(227,32,28,.5); /* red */ 
     }
     .post-category-yui {
         background: #8156a7;
