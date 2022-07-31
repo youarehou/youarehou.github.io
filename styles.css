@@ -34,24 +34,24 @@ h3 {
 }
 
 .sidebar {
-    /* background: rgba(255,253,50,1); yellow */
-	animation: sidebar 10s ease-in-out 0s infinite;
-    /* color: rgba(102,103,103,.5); gray */
+    background: rgba(0,0,0,1); /* black */
+    color: rgba(255,204,102,.75); /* goldenrod */
+	/* animation: sidebar 10s ease-in-out 0s infinite; */
 }
 
-@keyframes sidebar {
-	0%	{background-color: rgba(255,253,50,1); /* yellow */ color: rgba(102,103,103,.5); /* gray */}
-	50% {background-color: rgba(102,103,103,.5); /* gray */ color: rgba(255,253,50,1); /* yellow */}
-	100%{background-color: rgba(255,253,50,1); /* yellow */ color: rgba(102,103,103,.5); /* gray */}
-}
+/*@keyframes sidebar {
+	0%	{background-color: rgba(255,253,50,1); color: rgba(102,103,103,.5);} yellow/gray
+	50% {background-color: rgba(102,103,103,.5); color: rgba(255,253,50,1);} gray/yellow
+	100%{background-color: rgba(255,253,50,1); color: rgba(102,103,103,.5);} yellow/gray
+}*/
 
 .brand-title,
 .brand-tagline {
     margin: 0;
 }
 .brand-title {
-    /* text-transform: uppercase; */
-	color: rgba(102,103,103,.75); /* gray */
+    text-transform: uppercase; 
+	color: rgba(255,204,102,.75); /* goldenrod */
 
 }
 .brand-tagline {
@@ -70,23 +70,27 @@ h3 {
 }
 .nav-item a {
     background: transparent;
-    border: 1px solid rgba(102,103,103,.5); /* gray */
-    color: rgba(102,103,103,.5); /* gray */
+    border: 0.1px solid rgba(255,204,102,.75); /* goldenrod */
+    color: rgba(255,204,102,.75); /* goldenrod */
+	box-shadow: 2px 2px rgba(255,204,102,.75); /* goldenrod */
     margin-top: 1em;
     letter-spacing: 0.05em;
     text-transform: uppercase;
     font-size: 85%;
+	transition: 0.5s background, 0.5s color, 0.5s box-shadow;
 }
 .nav-item a:hover,
 .nav-item a:focus {
-    border: 1px solid rgba(102,103,103,.75); /* gray */
     text-decoration: none;
+	background: rgba(255,204,102,1); /* goldenrod */
+	color: rgba(0,0,0,1);
+	box-shadow: 0px 0px;
 }
 
 .content-subhead {
     text-transform: uppercase;
-    color: #aaa;
-    border-bottom: 1px solid #eee;
+    color: rgba(255,204,102,.75); /* goldenrod */
+    border-bottom: 1px solid rgba(255,204,102,.75);
     padding: 0.4em 0;
     font-size: 80%;
     font-weight: 500;
@@ -95,14 +99,19 @@ h3 {
 
 .content {
     padding: 2em 1em 0;
+	background-color: rgba(0,0,0,1); /* black */
 }
 
 .post {
     padding-bottom: 2em;
+	border: 0.1px solid rgba(255,204,102,.75); /* goldenrod */
+	box-shadow: 5px 5px rgba(255,204,102,.75); /* goldenrod */
+	border-radius: 0px;
+	padding: 0.1em 2em 2em 2em;
 }
 .post-title {
     font-size: 2em;
-    color: #222;
+    color: rgba(255,255,255,.5);
     margin-bottom: 0.2em;
 }
 .post-avatar {
@@ -112,7 +121,7 @@ h3 {
 }
 .post-description {
     font-family: sans-serif;
-    color: rgba(102,103,103,1);
+    color: rgba(255,255,255,.5);
     line-height: 1.8em;
 }
 .post-meta {
