@@ -6,7 +6,7 @@
 
 a {
     text-decoration: none;
-    color: rgb(61, 146, 201);
+    color: rgba(255,255,255,.6);
 }
 a:hover,
 a:focus {
@@ -108,7 +108,13 @@ h3 {
 	box-shadow: 5px 5px rgba(255,204,102,.75); /* goldenrod */
 	border-radius: 0px;
 	padding: 0.1em 2em 2em 2em;
+	transition: 0.5s box-shadow, 0.5s border;
 }
+
+.post:hover {
+	box-shadow: -2.5px -2.5px rgba(255,204,102,.75); /* goldenrod */
+}
+
 .post-title {
     font-size: 2em;
     color: rgba(255,255,255,.5);
@@ -130,6 +136,10 @@ h3 {
     margin: 0;
 }
 
+.post-countdown {
+	color: rgba(255,204,102,.75);
+}
+
 .post-category {
     margin: 0 0.1em;
     padding: 0.3em 1em;
@@ -142,8 +152,8 @@ h3 {
     }
     .post-category-primary {
         background: transparent;
-		border: 1px solid rgba(57,106,176,.5); /* blue */
-		color: rgba(57,106,176,.75); /* blue */
+		border: 1px solid rgba(240,43,127,.5); /* blue */
+		color: rgba(240,43,127,.5); /* blue */
     }
     .post-category-deadline {
         background: transparent;
