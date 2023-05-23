@@ -2,7 +2,7 @@
 title: 🤠 Well howdy!
 date: 2023-05-15 16:43:00 -0500
 categories: []
-tags: [voter registration, 2023 election, analysis, texas secretary of state, harris county elections office]     # TAG names should always be lowercase
+tags: [2023 elections, city of houston, harris county, texas, harrisvotes.com, harris county elections administrator, voter registration, texas secretary of state]     # TAG names should always be lowercase
 ---
 
 One day when we've lost our way five years from now, we'll  scroll and scroll and scroll just to get back here, just see how we started. Help us see HOU we've become.

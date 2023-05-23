@@ -118,6 +118,9 @@ pwa:
 
 paginate: 10
 
+# plugins:
+  # - jekyll-polyglot
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
