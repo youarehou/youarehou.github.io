@@ -4,9 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## You are HOU!
+![The HOUniversity of YOUston](/assets/img/seal.svg)
+_The HOUniversity of YOUston official seal and credo: "E Pluribus HOUnum"_
 
-Just trying to get ready for 2023 elections in Houston, Harris County, TX. I'll share what I learn here, and maybe touch on other related things too. My goal here is to coagulate some info, support some local civic action, and... gun to my head? Help develop a civic identity and pride in our little county. After all... *We are HOU!*
+## The HOUniversity of YOUston
+
+A personal self-education project. Just trying to get ready for 2023 elections in Houston, Harris County, TX. I'll share what I learn here, and maybe touch on other related things too. My goal here is to coagulate some info, support some local civic action, and... gun to my head? Help develop a civic identity and pride in our little county. After all... *We are HOU!*
 
 ## HOU else?
 

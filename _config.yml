@@ -18,12 +18,12 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: You are HOU # the main title
+title: You are HOU! # the main title
 
-tagline: Getting ready for 2023 elections in Houston, Harris County, TX # it will display as the sub-title
+tagline: Public self-education for the November 2023 elections in Houston and Harris County # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Getting ready for election 2023 in Houston and Harris County
+  ublic self-education for the November 2023 elections in Houston and Harris County
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/tx.png
+avatar: /assets/img/seal.svg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
