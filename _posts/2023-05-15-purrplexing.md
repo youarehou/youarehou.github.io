@@ -2,7 +2,7 @@
 title: 🙀 Pawsitively purrplexing...
 date: 2023-05-15 22:44:00 -0500
 categories: []
-tags: [2022 elections, chatgpt, off the kuff, garfield, siri, alexa, darpa, khou 11 news, journalism ethics, harris county elections adminstrator, texas legislature, a.i., houston chronicle]     # TAG names should always be lowercase
+tags: [2022 elections, chatgpt, off the kuff, garfield, siri, alexa, darpa, khou 11 news, journalism ethics, harris county elections administrator, texas legislature, a.i., houston chronicle]     # TAG names should always be lowercase
 ---
 
 **"KHOU urged to retract meow-sleading election story."**
