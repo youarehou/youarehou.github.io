@@ -15,9 +15,9 @@ I wasn’t washing dishes or folding clothes or walking the dog either; I gave t
 ![*Houston Chronicle* headline: "AG Paxton impeached in historic House vote"](/assets/img/newspaper.jpg)
 _Sunday morning front page of Houston Chronicle_
 
-The legislative branch checking the executive. Republican legislators questioning the integrity of their Republican attorney general, accusing him of misconduct, and suspending him from his statewide elected position — pending the upcoming trail in the Texas Senate. And all in the final days of the Texas Legislature, which only meets during odd-numbered years. It’s like *Game of Thrones* for local civics nerds.
+The legislative branch checking the executive. Republican legislators questioning the integrity of their Republican attorney general, accusing him of misconduct, and suspending him from his statewide elected position — pending the upcoming trial in the Texas Senate. And all in the final days of the Texas Legislature, which only meets during odd-numbered years. It’s like *Game of Thrones* for local civics nerds.
 
-My favorite moment visually was during the opening statements, when iconic Representatives Andrew Murr (R-Kerrville) and Ann Johnson (D-Houston) shared the screen. Between Murr’s curly-twirly moustache and Johnson’s Warby Parker-rimmed glasses, the two lawmakers looked less like their committee finished a months-long investigation of the state’s highest ranking prosecutor, and more like they were going to distill craft-whiskey while writing a best-selling novel.
+My favorite moment visually was during the opening statements, when iconic Representatives Andrew Murr (R-Kerrville) and Ann Johnson (D-Houston) shared the screen. Between Murr’s curly-twirly moustache and Johnson’s Warby Parker-rimmed glasses, the two lawmakers looked less like their committee finished a months-long investigation of the state’s highest-ranking prosecutor, and more like they were going to distill craft-whiskey while writing a best-selling novel.
 
 ![HR 2337 opening statements](/assets/img/hr2337.png)
 _Hipster Representatives Andrew Murr (R-Kerrville) and Ann Johnson (D-Houston) sport subtly iconic attire during opening statements of the HR 2337 vote to impeach TX Attorney General Ken Paxton_
