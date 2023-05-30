@@ -1,5 +1,5 @@
 ---
-title: 🍎 Harris County Commissioners Court
+title: 🔍 Harris County Commissioners Court
 date: 2023-05-28 18:59:00 -0500
 categories: [harris county 101]
 tags: [harris county, property taxes, elections administration, texas counties, county judge, county commissioner, county commissioners court, lina hidalgo, rodney ellis, adrian garcia, tom ramsey, lesley briones]     # TAG names should always be lowercase
@@ -22,7 +22,7 @@ We'll never see *County Commissioners Court* on our ballot. But we *will* see Co
 
 ### County Commissioners
 
-We'll also see one of the four *County Commissioners* on our ballot every four years. County Commissioner is like a combination of the "Vice President" and "Cabinet" and "Senate" of the county.[^5] In Harris County[^10]:
+We'll also see one of the four *County Commissioners* on our ballot staggered every four years. County Commissioner is like a combination of the "Vice President" and "Cabinet" and "Senate" of the county.[^5] In Harris County[^10]:
 
 * Rodney Ellis serves his 2nd term as *Harris County Precinct 1 Commissioner*. Ellis was re-elected in November 2020.[^6]
 * Adrian Garcia serves his 2nd term as *Harris County Precinct 2 Commissioner*. Garcia was re-elected in November 2022. [^7]

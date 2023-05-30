@@ -5,6 +5,11 @@ categories: [opinion]
 tags: [texas legislature, texas senate, texas house of representatives, texas attorney general, ken paxton, nate paul, andrew murr, ann johnson, charlie geren, oscar longoria, david spiller, hr 2377, impeachment]     # TAG names should always be lowercase
 ---
 
+## Updates
+### 9:35a, May 29, 2023
+
+Brent Webster, Paxton's second-in-command, has taken over Paxton's duties as TX Attorney General. <a href="https://www.texastribune.org/2023/05/29/paxton-impeachment-brent-webster/" target="_blank">The *Tribune* has more</a>.
+
 ## HR 2337
 ### Impeaching Warren Kenneth Paxton, Attorney General of the State of Texas
 

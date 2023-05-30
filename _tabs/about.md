@@ -35,3 +35,7 @@ So I know some stuff, but I'm definitely rusty. Looking back, my favorite interv
 * **Frank Warren**, creator of PostSecret
 * **Tim & Eric**, absurdist comedy duo
 * **Caribou**, musician and composer
+
+## HOU did this site?
+
+I did with so much help. I'd like to thank <a href="https://www.ruby-lang.org/en/" target="_blank">Ruby</a>, <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> ( <a href="https://youtu.be/F8iOU1ci19Q" target="_blank">Techno Tim</a> for the tutorial, and the helpful <a href="https://talk.jekyllrb.com/" target="_blank">Jekyll Talk</a> community), <a href="https://chirpy.cotes.page/" target="_blank">Chirpy</a>, <a href="https://github.com/" target="_blank">GitHub</a>, and of course the big G.
