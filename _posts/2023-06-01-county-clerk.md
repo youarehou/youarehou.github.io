@@ -18,7 +18,7 @@ _Harris County Clerk Teneshia Hudspeth courtesy of Houston Chronicle_[^5]
 
 ### Record-keeper
 
-For people who don't live and breathe county government, there is some confusing language around this (and many) positions depending on the county's population and structure. After speaking with Rosie Segura, deputy communications clerk for Harris County Clerk, here is a plainspoken breakdown of the office's responsibilities as chief record-keeper:
+For people who don't live and breathe county government, there is some confusing language around this (and many) positions depending on the county's population and structure. After speaking with Rosio Segura, deputy communications clerk for Harris County Clerk, here is a plainspoken breakdown of the office's responsibilities as chief record-keeper:
 * **Main responsibilities**: Marriage licenses, affidavits, depositions, deeds, guardianship records, and birth and death certificates all go through county clerk's office
 * County clerks oversee elections (in counties where the commissioners court has not created an elections administrator office)
 * County clerks also oversee clerks in probate and civil courts (but not criminal courts in counties with a district clerk)
