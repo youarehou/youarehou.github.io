@@ -1,5 +1,5 @@
 ---
-title: 🔍 Harris County Commissioners Court
+title: 👩🏽‍⚖️👨🏾‍⚖️👨🏽‍⚖️👨🏻‍⚖️👩🏽‍⚖️ Harris County Commissioners Court
 date: 2023-05-28 18:59:00 -0500
 categories: [harris county 101]
 tags: [harris county, property taxes, elections administration, texas counties, county judge, county commissioner, county commissioners court, lina hidalgo, rodney ellis, adrian garcia, tom ramsey, lesley briones]     # TAG names should always be lowercase
