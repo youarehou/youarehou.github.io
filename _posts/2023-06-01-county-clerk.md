@@ -14,7 +14,7 @@ County government sits *between* state and local governments. County government 
 Teneshia Hudspeth serves her first full-length term as *Harris County Clerk*. Hudspeth was re-elected in November 2022.
 
 ![Harris County Clerk Teneshia Hudspeth](https://s.hdnux.com/photos/01/27/62/52/23014031/3/1600x0.jpg)
-_Harris County Clerk Teneshia Hudspeth courtesy of Houston Chronicle_[^5]
+_Harris County Clerk Teneshia Hudspeth courtesy of Houston Chronicle_
 
 ### Record-keeper
 
@@ -33,19 +33,21 @@ But nothing really for us to do as voters, aside from registering to vote!
 
 ### Historical Context
 
-Most large counties in Texas have created an office of elections administration, to keep this seasonal set of services separate from everything else the county clerk does. Though the position is partisan, the responsibilities appear to be boilerplate functions in a democracy. However, Harris County *is* the most populous county in the state. As far as elections go, the county has no one's example to learn from (in Texas).
+Most large counties in Texas have created an office of elections administration, to keep this seasonal set of services separate from everything else the county clerk does. Harris County first did in 2020. Though the candidates are partisan, the responsibilities seem to be boilerplate functions in a democracy (i.e. No one cares about the political affiliation of your plumber). However, Harris County *is* the most populous county in the state. As far as elections go, the county has no one's example to learn from (in Texas).
 
 So elections in Harris County have always been fraught with some controversy, delays, or goofs:
 
 | Harris County Clerk | Term | Controversy |
 | --- | --- | --- |
-| Anita Rodeheaver (?)[^8] | 1980s | **Had to stop a dog from voting.** |
+| Anita Rodeheaver (D)[^8][^12][^13] | 1979-1993 | **Stopped dog from voting.** First female Harris County Clerk. Recorded deeds with racial discrimination covenants, violated federal law. |
 | Molly Pryor (?) | 1993-1994 |  |
 | Beverly Kaufmann (R)[^6] | 1994-2010 | Introduced electronic voting machines (no more punch cards). Threw away 29,000 votes. Fire destroyed all voting machines. |
 | Stan Stanart (R)[^7] | 2011-2018 | History of reporting election results late. |
 | Diane Trautman (D)[^9][^10] | 2019-2020 | Introduced county-wide voting. Long lines. 12 hour delay in election results. Equal number of voting machines to both parties.|
 | Chris Hollins (D)[^10] | 2020 | Introduced drive-thru voting, 24-hour voting, and COVID finger condoms. First election ever with new Harris County Elections Administrator office. |
-| Teneshia Hudspeth (D)[^11] | 2020 - Today | Paper ballot shortages. |
+| Teneshia Hudspeth (D)[^11] | 2020-2026 | Paper ballot shortages. |
+
+*Note: some of this section seems to me like opinion. This may be moved to its own post to maintain some separation between my bias (in this case, for dogs) and proper "101"-style info-cational content.*
 
 ## Appendix: Sources
 
@@ -60,3 +62,5 @@ So elections in Harris County have always been fraught with some controversy, de
 [^9]: <a href="https://www.houstonpublicmedia.org/articles/news/politics/2020/05/09/369169/harris-county-clerk-diane-trautman-resigns/" target="_blank">*Houston Public Media* - Harris County Clerk Diane Trautman Resigns</a>
 [^10]: <a href="https://www.texasmonthly.com/news-politics/voting-harris-county-chris-hollins/">*Texas Monthly* - Drive-through Voting. 24-Hour Polling Places. Finger Condoms. Welcome to Election 2020 in Harris County.</a>
 [^11]: <a href="https://youarehou.github.io/posts/sb823/">TX Senate bill to suspend county elections administrator</a>
+[^12]: <a href="https://capitol.texas.gov/tlodocs/73R/billtext/html/SR01038F.htm">Texas Legislature Online (73R) - Senate Resolution 1038 (73R) In memory of Anita Rodeheaver</a>
+[^13]: <a href="https://www.nytimes.com/1984/12/08/us/us-sues-on-racial-bias-already-illegal-in-deeds.html">*New York Times* - U.S. sues on racial bias already illegal in deeds</a>
