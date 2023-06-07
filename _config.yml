@@ -26,16 +26,16 @@ title: You are HOU! # the main title
 tagline: Public self-education for the November 2023 elections in Houston and Harris County # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  ublic self-education for the November 2023 elections in Houston and Harris County
+  Public self-education for the November 2023 elections in Houston and Harris County
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: https://youarehou.github.io/
 
 github:
   username: youarehou # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: youarehou # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,13 +44,15 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://instagram.com/twenty_twenty_threenav # change to your twitter homepage
+    - https://twitter.com/youarehou # change to your twitter homepage
     - https://github.com/youarehou # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
+
+logo: /assets/img/seal.svg
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
