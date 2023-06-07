@@ -1,6 +1,6 @@
 ---
 title: ⚖️👩🏻‍⚖️👨🏾‍⚖️🚨 District Attorney vs. County Attorney
-date: 2023-06-01 15:27:00 -0500
+date: 2023-06-07 15:19:00 -0500
 categories: [harris county 101]
 tags: [harris county district attorney, harris county attorney, kim ogg, christian menefee, harris county criminal justice center, murray newman]     # TAG names should always be lowercase
 ---
