@@ -9,6 +9,18 @@ _The HOUniversity of YOUston official seal and credo: "E Pluribus HOUnum"_
 
 ## The HOUniversity of YOUston
 
+There doesn't seem to be any promotional messaging in place for elections.
+
+Candidates promote themselves. Parties promote themselves. Groups promote themselves and their interests.
+
+But no one straight up promotes elections in the same way we do concerts, movies, and dish soap.
+
+No one says, "Hey! It's national decision-making day coming up! We may pray to zero-to-infinity different God(s) and not care a lick about each other on the highway — but this voting thing is about as unified and elemental as anything close to a common culture we can hope to share."
+
+It's embedded in our existence as neighbors with fences and families.
+
+It's that time of year every year.
+
 A personal self-education project. Just trying to get ready for 2023 elections in Houston, Harris County, TX. I'll share what I learn here, and maybe touch on other related things too. My goal here is to coagulate some info, support some local civic action, and... gun to my head? Help develop a civic identity and pride in our little county. After all... *We are HOU!*
 
 ## HOU else?
