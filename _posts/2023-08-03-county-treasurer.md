@@ -1,5 +1,5 @@
 ---
-title: 💰🏦💵 Harris County Treasurer
+title: 💰🏦 Harris County Treasurer
 date: 2023-08-03 08:09:00 -0500
 categories: [harris county 101]
 tags: [harris county treasurer, carla wyatt]     # TAG names should always be lowercase
